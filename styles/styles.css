@@ -1,0 +1,26 @@
+.selector {
+    box-sizing: content-box;
+}
+.navbar-brand {
+    color: white;
+}
+
+.navbar {
+    background-color: gray;
+}
+
+#navbarNav {
+    justify-content: flex-end;
+}
+
+.welcomecard {
+    background-color: lightgray;
+}
+
+.card-footer {
+    background-color: lightgray;
+    max-width: 100%;
+}
+.container-md {
+    color: white;
+}
